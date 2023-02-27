@@ -1,0 +1,14 @@
+.header-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.header-nav{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.header-nav CustomLink{
+    margin-right: 10px;
+}
