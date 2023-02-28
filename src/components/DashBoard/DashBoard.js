@@ -4,9 +4,6 @@ import { Area, AreaChart, Bar, BarChart, CartesianGrid, Legend, Tooltip, XAxis, 
 import useBike from '../../hooks/CustomHooks/useBike';
 import './DashBoard.css'
 
-
-
-
 const DashBoard = () => {
     const [data, setData] = useBike();
     return (
