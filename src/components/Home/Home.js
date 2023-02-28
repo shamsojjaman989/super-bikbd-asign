@@ -32,7 +32,7 @@ const Home = () => {
             </div>
         </div>
         <div className="reviews">
-            <h2>Hot Products are....!{products.length}</h2>
+            <h2>Hot Products are..!</h2>
             <div className="product-items">
                 {
                     products.filter(product=> product.ratingsCount >= 1500).map(bikes =><HomeProduct
