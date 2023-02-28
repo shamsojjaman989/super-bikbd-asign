@@ -4,7 +4,7 @@
         "id": "4930a-43239-b342",
         "category": "Super-Car",
         "name": "H2R",
-        "seller": "Rolsroyes",
+        "seller": "Kawasaki",
         "price": 1800,
         "stock": 10,
         "ratings": 5,
@@ -21,7 +21,7 @@
         "price": 1390,
         "stock": 5,
         "ratings": 4.5,
-        "ratingsCount": 2025,
+        "ratingsCount": 825,
         "img": "https://images.unsplash.com/photo-1637476349345-d8f88e11e573?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzN8fHN1cGVyJTIwYmlrZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
         "shipping": 0,
         "quantity": 0
@@ -88,7 +88,7 @@
         "price": 900,
         "stock": 9,
         "ratings": 4.5,
-        "ratingsCount": 767,
+        "ratingsCount": 3767,
         "img": "https://images.unsplash.com/photo-1623756005624-cacdc88f5adf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjV8fGR1Y2F0aSUyMGJpa2V8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "shipping": 0,
         "quantity": 0
@@ -101,7 +101,7 @@
         "price": 1500,
         "stock": 3,
         "ratings": 5,
-        "ratingsCount": 1767,
+        "ratingsCount": 1400,
         "img": "https://images.unsplash.com/photo-1560319734-fe91ab681d85?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8engxMHJ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "shipping": 0,
         "quantity": 0
